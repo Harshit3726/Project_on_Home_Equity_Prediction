@@ -67,6 +67,18 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm that can
 
 To separate the two classes of data points, there are many possible hyperplanes that could be chosen. Our objective is to find a plane that has the maximum margin, i.e the maximum distance between data points of both classes. Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence.
 ![WhatsApp Image 2023-08-19 at 5 04 27 PM](https://github.com/Harshit3726/Project_on_Home_Equity_Prediction/assets/117848999/025be9e9-5432-4bce-b4b4-001d5adc3c06)
+
+## Decision Tree Classification Algorithm
+Decision Tree is a Supervised learning technique that can be used for both classification and Regression problems, but mostly it is preferred for solving Classification problems. It is a tree-structured classifier, where internal nodes represent the features of a dataset, branches represent the decision rules and each leaf node represents the outcome.
+In a Decision tree, there are two nodes, which are the Decision Node and Leaf Node. Decision nodes are used to make any decision and have multiple branches, whereas Leaf nodes are the output of those decisions and do not contain any further branches.
+The decisions or the test are performed on the basis of features of the given dataset.
+It is a graphical representation for getting all the possible solutions to a problem/decision based on given conditions.
+It is called a decision tree because, similar to a tree, it starts with the root node, which expands on further branches and constructs a tree-like structure.
+In order to build a tree, we use the CART algorithm, which stands for Classification and Regression Tree algorithm.
+A decision tree simply asks a question, and based on the answer (Yes/No), it further split the tree into subtrees.
+Below diagram explains the general structure of a decision tree:
+![WhatsApp Image 2023-08-19 at 5 22 33 PM](https://github.com/Harshit3726/Project_on_Home_Equity_Prediction/assets/117848999/ca2c043f-494e-4c05-85f9-35edfc49e8ec)
+
 ## Basic Working Pipeline of the Project
 ![WhatsApp Image 2023-08-19 at 5 08 59 PM](https://github.com/Harshit3726/Project_on_Home_Equity_Prediction/assets/117848999/4e27e156-3cf5-46e6-a4a4-e9b13226c53f)
 The following steps are used to create a Machine Learning Project using predefined dataset:
@@ -87,10 +99,15 @@ The following steps are used to create a Machine Learning Project using predefin
 
 ## Required Dependencies
 [numpy](https://github.com/numpy/numpy)
+
 [pandas](https://github.com/pandas-dev/pandas)
+
 [matplotlib](https://github.com/matplotlib/matplotlib)
+
 [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+
 [seaborn](https://github.com/seaborn/seaborn)
+
 
 ## Results
 
