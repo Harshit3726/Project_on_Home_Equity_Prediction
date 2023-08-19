@@ -37,10 +37,11 @@ This Project is an Real Life Application of Machine Learning Techniques in finan
 
 ## Models and Performance Metrics
 
-We built four supervised classification models:
+We built three supervised classification models:
 - Logistic Regression
-- Decision Tree Classifier
 - Support Vector Machine
+- Decision Tree Classifier
+
 
 The performance metric used for all models is the area under the ROC curve (AUC), which helps assess the models' ability to distinguish between defaulters and non-defaulters.
 
