@@ -45,6 +45,15 @@ We built three supervised classification models:
 
 The performance metric used for all models is the area under the ROC curve (AUC), which helps assess the models' ability to distinguish between defaulters and non-defaulters.
 
+## About the Dataset
+Home Equity Loan (HMEQ) reports characteristics and delinquency information for 5,960 home equity loans. A home equity loan is a loan where the obligor uses the equity of his/her home as the underlying collateral.
+
+In this project, we predict the probability of default on home equity loan. The dataset contains two classes - The majority (negative) class comprises 80% of the observations and represents the applicants that paid their loan on time and 20% of the dataset is the minority (positive) class, which represents the applicants who defaulted on thier loan.
+
+The dataset also contains few missing values in some variables, which were imputed before modeling. We built four supervised classification models: Logistic regression, Support vector machine, Random forest, and XGBoost. The area under the ROC curve (AUC) was used as the performance metric for all the models.
+
+
+
 ## Conclusion
 
 This project provides a valuable tool for the bank's consumer credit department to make more informed lending decisions, reducing the risk of losses due to defaults. By achieving a high recall rate, the bank can proactively identify clients at risk of not paying their debts.
