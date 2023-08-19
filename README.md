@@ -87,6 +87,7 @@ Below diagram explains the general structure of a decision tree:
 The following steps are used to create a Machine Learning Project using predefined dataset:
 
 **1. Data Collection**: The very first step is to collect the data and required dependencies.
+
 **2. Data Analysis and Data Preprocessing**
    
 **2.1 Data Analysis**: After that, we used to analyze the dataset, about it's behaviour, trend and changes with respect to independent attributes. We also have to analyze the dependencies between every attribute, such that our model must be fitted perfectly.
