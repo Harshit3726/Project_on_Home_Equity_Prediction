@@ -83,17 +83,17 @@ Below diagram explains the general structure of a decision tree:
 ![WhatsApp Image 2023-08-19 at 5 08 59 PM](https://github.com/Harshit3726/Project_on_Home_Equity_Prediction/assets/117848999/4e27e156-3cf5-46e6-a4a4-e9b13226c53f)
 The following steps are used to create a Machine Learning Project using predefined dataset:
 
-1. Data Collection: The very first step is to collect the data and required dependencies.
+1. **Data Collection**: The very first step is to collect the data and required dependencies.
 
-2. Data Analysis and Data Preprocessing
+2. **Data Analysis and Data Preprocessing**
 
-2.1 Data Analysis: After that, we used to analyze the dataset, about it's behaviour, trend and changes with respect to independent attributes. We also have to analyze the dependencies between every attribute, such that our model must be fitted perfectly.
+2.1 **Data Analysis**: After that, we used to analyze the dataset, about it's behaviour, trend and changes with respect to independent attributes. We also have to analyze the dependencies between every attribute, such that our model must be fitted perfectly.
 
-2.2 Data Cleaning and Preprocessing: This is the most important step in model creation. The Cleaning of our dataset, such that the good data can be used for next process and unrequired/bad data should be removed so that the condition of overfitting and underfitting won't occur.
+2.2 **Data Cleaning and Preprocessing**: This is the most important step in model creation. The Cleaning of our dataset, such that the good data can be used for next process and unrequired/bad data should be removed so that the condition of overfitting and underfitting won't occur.
 
-3. Feature Enginnering: It is a machine learning technique that leverages data to create new variables that aren't in the training set. It can produce new features for both supervised and unsupervised learning, with the goal of simplifying and speeding up data transformations while also enhancing model accuracy.
+3. **Feature Enginnering**: It is a machine learning technique that leverages data to create new variables that aren't in the training set. It can produce new features for both supervised and unsupervised learning, with the goal of simplifying and speeding up data transformations while also enhancing model accuracy.
 
-4. Data Splitting (Train-Test): Now we will spilt the dataset into two parts, the training part will be used to create the model and testing part will be used to verify the results of our model.
+4. **Data Splitting (Train-Test)**: Now we will spilt the dataset into two parts, the training part will be used to create the model and testing part will be used to verify the results of our model.
 
 5. At last, we will select the most accurate result between both the techniques.
 
