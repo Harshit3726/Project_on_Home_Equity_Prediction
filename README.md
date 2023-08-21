@@ -1,7 +1,7 @@
 # Home Equity Default Prediction using Machine Learning Techniques
 ![WhatsApp Image 2023-08-19 at 2 31 11 PM](https://github.com/Harshit3726/Project_on_Home_Equity_Prediction/assets/117848999/407ef00c-17b5-4a45-8590-0b4902628fab)
 
-This Project is an Real Life Application of Machine Learning Techniques in finance field. This project aims to predict the default on home equity loans using historical data. The dataset contains information about applicants, their loan requests, and their loan performance. The goal is to build a credit scoring model that can help the bank automate the decision-making process for approving home equity lines of credit.
+This Project is an Real Life Application of Machine Learning Techniques in finance field. This project aims to predict the default on home equity loans using historical data. The dataset contains information about applicants, their loan requests, and their loan performance. The goal is to build a model that can help the bank automate the decision-making process for approving home equity lines of credit.
 
 ## Project Objective
 
