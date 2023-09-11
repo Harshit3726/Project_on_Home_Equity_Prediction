@@ -112,7 +112,7 @@ The following steps are used to create a Machine Learning Project using predefin
 [seaborn](https://github.com/seaborn/seaborn)
 
 
-## Results
+
 
 
 ## Conclusion
